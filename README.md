@@ -4,9 +4,9 @@
 
 You can use Eclipse or IntelliJ pretty easily with this in theory but the simplest setup will be to just use (Visual Studio Code)[https://code.visualstudio.com/]. The initial setup steps for this are as follows:
 
-* Install (Visual Studio Code)[https://code.visualstudio.com/] from its website: https://code.visualstudio.com/
-* Install (Docker Desktop)[https://www.docker.com/products/docker-desktop/] from its website: https://www.docker.com/products/docker-desktop/
-* Install the (Dev Containers)[https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers] extension for Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+* Install [Visual Studio Code](https://code.visualstudio.com/) from its website: https://code.visualstudio.com/
+* Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) from its website: https://www.docker.com/products/docker-desktop/
+* Install the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension for Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 
 Now you have the environment so you just need to clone the repository and reopen it in a dev container:
 
@@ -19,7 +19,7 @@ Now you're done setting up and should be able to run maven commands and run the 
 
 # Adding dependencies
 
-Obviously you'll want to add some additional dependencies to this project as you expand it. The most obvious one is some way to interact with a database. You can do this in the `pom.xml` file. Look into Maven documentation if you need more help with this, you'll probably be doing some research anyway to find the dependencies you need. A common one that helps reduce code verbosity is (Lombok)[https://projectlombok.org/].
+Obviously you'll want to add some additional dependencies to this project as you expand it. The most obvious one is some way to interact with a database. You can do this in the `pom.xml` file. Look into Maven documentation if you need more help with this, you'll probably be doing some research anyway to find the dependencies you need. A common one that helps reduce code verbosity is [Lombok](https://projectlombok.org/).
 
 # Testing
 
