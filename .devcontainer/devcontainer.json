@@ -1,0 +1,12 @@
+{
+    "name": "sigapp-java-dev-container",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": []
+        }
+    }
+}
