@@ -2,7 +2,7 @@
 
 # Setup
 
-You can use Eclipse or IntelliJ pretty easily with this in theory but the simplest setup will be to just use (Visual Studio Code)[https://code.visualstudio.com/]. The initial setup steps for this are as follows:
+You can use Eclipse or IntelliJ pretty easily with this in theory but the simplest setup will be to just use [Visual Studio Code](https://code.visualstudio.com/). The initial setup steps for this are as follows:
 
 * Install [Visual Studio Code](https://code.visualstudio.com/) from its website: https://code.visualstudio.com/
 * Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) from its website: https://www.docker.com/products/docker-desktop/
